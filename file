@@ -1,0 +1,4 @@
+wget https://downloads.apache.org//jmeter/binaries/apache-jmeter-5.4.1.tgz
+•	Extraction des fichiers dans l’emplacement approprié 
+[root@jenkins ~]# tar xvfz apache-jmeter-5.4.1.tgz
+[root@jenkins ~]# mv apache-jmeter-5.4.1 /opt/jmeter
